@@ -1,11 +1,12 @@
 ### Olá sejam bem-vindos ao meu perfil 📈👋
 
 
-Meu nome é Mateus de Oliveira
+Meu nome é *Mateus de Oliveira*
+
 
 -Estudante do ensino médio 🧑‍🎓
 
--Futuro técnico em informática 💻
+-Futuro técnico em `Informática` 💻
 
 -Utilizo o Github para compartilhar mini projetos 
 
