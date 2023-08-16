@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá sejam bem-vindos ao meu perfil 📈👋
 
-<!--
-**Mateus947/Mateus947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Mateus de Oliveira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estudante do ensino médio 🧑‍🎓
+
+-Futuro técnico em informática 💻
+
+-Utilizo o Github para compartilhar mini projetos 
+
+![](https://media.tenor.com/Zb_1QeHyHBAAAAAi/hva-hogeschool-van-amsterdam.gif)
+
+
